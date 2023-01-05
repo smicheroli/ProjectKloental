@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectKloental.Editor", "ProjectKloental.Editor\ProjectKloental.Editor.csproj", "{1B305E8B-CECA-473D-B820-62A52D2B9AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B305E8B-CECA-473D-B820-62A52D2B9AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B305E8B-CECA-473D-B820-62A52D2B9AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B305E8B-CECA-473D-B820-62A52D2B9AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B305E8B-CECA-473D-B820-62A52D2B9AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E25BBD1-03B4-46BF-8A38-8E5DF25E9A31}
+	EndGlobalSection
+EndGlobal
