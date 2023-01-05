@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectKloental.Editor", "ProjectKloental.Editor\ProjectKloental.Editor.csproj", "{1B305E8B-CECA-473D-B820-62A52D2B9AAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectKloental.OAuth", "ProjectKloental.OAuth\ProjectKloental.OAuth.csproj", "{F0308B69-F210-46CB-AC06-F5F093C29D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectKloental.OpenStreetMap", "ProjectKloental.OpenStreetMap\ProjectKloental.OpenStreetMap.csproj", "{6B4221DC-7CA3-4283-8BD3-8B835E83D7EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1B305E8B-CECA-473D-B820-62A52D2B9AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B305E8B-CECA-473D-B820-62A52D2B9AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B305E8B-CECA-473D-B820-62A52D2B9AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0308B69-F210-46CB-AC06-F5F093C29D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0308B69-F210-46CB-AC06-F5F093C29D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0308B69-F210-46CB-AC06-F5F093C29D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0308B69-F210-46CB-AC06-F5F093C29D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4221DC-7CA3-4283-8BD3-8B835E83D7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4221DC-7CA3-4283-8BD3-8B835E83D7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4221DC-7CA3-4283-8BD3-8B835E83D7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4221DC-7CA3-4283-8BD3-8B835E83D7EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
